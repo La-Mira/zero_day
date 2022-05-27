@@ -1,7 +1,0 @@
-cd 0x00-vagrant
-touch README.md
-git add .
-git commit -m 'My first commit'
-git push
-ls
-
